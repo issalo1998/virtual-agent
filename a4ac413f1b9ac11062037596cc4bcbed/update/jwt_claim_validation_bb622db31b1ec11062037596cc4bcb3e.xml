@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="jwt_claim_validation">
+    <jwt_claim_validation action="INSERT_OR_UPDATE">
+        <claim_value/>
+        <claim_value_type>long</claim_value_type>
+        <is_standard_claim>true</is_standard_claim>
+        <jwt_provider/>
+        <lookup_field_path/>
+        <name>exp</name>
+        <oidc_provider display_value="Microsoft Teams">3f6229731b1ec11062037596cc4bcb34</oidc_provider>
+        <sys_class_name>jwt_claim_validation</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-24 14:51:37</sys_created_on>
+        <sys_id>bb622db31b1ec11062037596cc4bcb3e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>exp</sys_name>
+        <sys_package display_value="NeedIt Virtual Agent Conversations" source="x_784382_needit_vi">a4ac413f1b9ac11062037596cc4bcbed</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Virtual Agent Conversations">a4ac413f1b9ac11062037596cc4bcbed</sys_scope>
+        <sys_update_name>jwt_claim_validation_bb622db31b1ec11062037596cc4bcb3e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-24 14:51:37</sys_updated_on>
+    </jwt_claim_validation>
+</record_update>
